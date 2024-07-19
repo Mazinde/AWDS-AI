@@ -8,6 +8,7 @@ Structure
 
 This repository is structured as follows:
 -Server/:- This directory contains the backend code, including API endpoints and Database models (using Django) and they are implimented using python and django it also contains the requirements.txt file for all the libraries used in the project.
+
 -Client/:This directory contains the frontend code of the system.It is implimented using Python Qt5 designer framework,Html and Css and python.It also contains the trained model for the AWDS AI that will be used when the monitoring interface is started.  
 
 Purpose
